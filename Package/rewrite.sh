@@ -4,8 +4,8 @@
 Prefix="SAT-03-11-2018_0"
 Suffix=".pcapng"
 Mprefile="./temp"
-# tcprewrite --infile="SAT-03-11-2018_001.pcapng" --outfile=${Mfile} --dstipmap=192.168.50.4:10.0.0.1
-# tcprewrite --infile=${Mfile} --outfile=${Ofile} --fixcsum
+# tcprewrite --infile="SAT-03-11-2018_000.pcapng" --outfile="temp" --dstipmap=192.168.50.4:10.0.0.1
+# tcprewrite --infile="temp" --outfile="New-SAT-03-11-2018_00.pcapng" --fixcsum
 
 # install parallel
 
