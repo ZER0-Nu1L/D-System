@@ -12,3 +12,7 @@ NIPS for DDoS attacks based on distributed SDN controller
 1. 配置了交换机的 `dpid`（用来区分edge和核心）
 
 2. 是端口顺序要确定，一个树自上而下自左向右连（BFS）
+
+## DDoS-Package
+Link：https://pan.baidu.com/s/1cAAttnPnv5_pff2eovaGIg
+Password：@ZER0-Nu1L
