@@ -37,8 +37,8 @@ class HRTopo(Topo):
         self.addLink(switch2, switch4)
         self.addLink(switch2, switch5)
         # switch3
-        self.addLink(switch3, Host6)
-        self.addLink(switch3, Host7)
+        self.addLink(switch3, switch6)
+        self.addLink(switch3, switch7)
         # switch4
         self.addLink(switch4, Host4)
         self.addLink(switch4, Host5)
