@@ -38,8 +38,8 @@ class IRTopo(Topo):
         self.addLink(switch2, switch5)
         self.addLink(switch2, switch6)
         # switch3
-        self.addLink(switch3, Host7)
-        self.addLink(switch3, Host8)
+        self.addLink(switch3, switch7)
+        self.addLink(switch3, switch8)
         # switch4
         self.addLink(switch4, Host8)
         # switch5
